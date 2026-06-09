@@ -3,7 +3,7 @@
 ## AIM:
 To write a C program that demonstrates the use of typedef to create a new alias name for a data type.
 
-## Algorithm:
+## Algorithm
 1. Start.
 2. Declare a variable value of type char.
 3. Prompt the user to enter a value.
@@ -14,7 +14,7 @@ To write a C program that demonstrates the use of typedef to create a new alias 
 8. End.   
 
 ## Program:
-```c program
+```
 #include <stdio.h>
 typedef int MyInt;
 int main() {
@@ -25,7 +25,9 @@ int main() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/5abbbaaa-f0f4-4acc-8322-b2af1739d68e)
+<img width="1126" height="180" alt="image" src="https://github.com/user-attachments/assets/5cf2b763-c146-4087-b356-4fe0e2998ff6" />
+
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
