@@ -1,18 +1,18 @@
-
 # EX 26 C program demonstrating a self-referential structure where an employee has a pointer to their manager.
 ## DATE:
 ## AIM:
 To write a C program to demonstrate a self-referential structure where an employee has a pointer to their manager.
 
-## Algorithm:
+## Algorithm
 1. Start.
 2. Create a structure and data member using pointer.
 3. Prompt the user to enter a value.
 4. Print the structure values.
 5. End.
+ 
 
 ## Program:
-```c program
+```
 #include <stdio.h>
 #include <stdlib.h>
 struct Employee {
@@ -45,7 +45,9 @@ NULL) ? "None" : emp1->manager->name);
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/4f426d76-b3a5-48cc-8193-9f997d50fa1c)
+<img width="1130" height="454" alt="image" src="https://github.com/user-attachments/assets/9c579ac7-69e3-4984-9948-02b54f928083" />
+
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
